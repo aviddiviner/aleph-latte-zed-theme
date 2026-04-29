@@ -1,0 +1,7 @@
+id = "aleph-latte-theme"
+name = "Aleph Latte Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["David Irvine <aviddiviner@gmail.com>"]
+description = "A warm, high-contrast light theme with chonky borders and soft blue accents"
+repository = "https://github.com/aviddiviner/aleph-latte-theme"
